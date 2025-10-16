@@ -21,7 +21,7 @@ Here, I’ve advanced it by adding **streaming responses** (token-by-token) and 
 - **Frontend:** React (Vite)
 - **Backend:** Flask API (with ngrok for tunnelling)
 - **Communication:** Server-Sent Events (SSE) for real-time streaming
-- 
+  
 ## Run Instructions
 1. **Start the Flask backend:**
    - Run the `kaggle-llm-class.ipynb` notebook on **Kaggle** or locally using Python.  
